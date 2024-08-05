@@ -31,23 +31,14 @@
 
     <build>
         <plugins>
-             <!-- Exclude Spring Boot plugin -->
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <skip>true</skip>
-                </configuration>
-            </plugin>
-
             <!-- Add your desired plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.6.3</version>
+                <version>3.8.0</version>
                 <!-- Configure as needed -->
             </plugin>
-                  <plugin>
+            <plugin>
             <artifactId>maven-jar-plugin</artifactId>
             <version>3.4.2</version>
             <!-- Other configuration as needed -->
