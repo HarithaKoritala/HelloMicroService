@@ -1,5 +1,4 @@
 <details>
-  <summary><strong style="color:#0000FF;">sample text</strong></summary>
-  <p>Content that is revealed when the details tag is clicked.</p>
+  <summary>Sample Text</summary>
+  <p><span style="color: #0000FF;">Content that is revealed when the details tag is clicked. This text is blue.</span></p>
 </details>
-
