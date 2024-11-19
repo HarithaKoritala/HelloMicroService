@@ -1,5 +1,6 @@
-<details>
-  <summary>Sample Text</summary>
-  ```diff
-  - This is red text
-  + This is green text
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
