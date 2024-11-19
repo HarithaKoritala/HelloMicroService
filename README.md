@@ -1,6 +1,4 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+<details>
+  <summary><h2>$${\color{blue}sample text}</h2></summary>
+  <p>Content that is revealed when the details tag is clicked.</p>
+</details>
