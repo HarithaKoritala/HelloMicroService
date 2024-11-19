@@ -1,6 +1,5 @@
-<details> 
-  <summary> 
-      <h2> <font color="#0000FF"> sample text</font> 
-    </h2>
-  </summary>
+<details>
+  <summary><strong style="color:#0000FF;">sample text</strong></summary>
+  <p>Content that is revealed when the details tag is clicked.</p>
 </details>
+
